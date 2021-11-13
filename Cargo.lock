@@ -546,6 +546,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "david_hello"
+version = "0.1.0"
+dependencies = [
+ "log",
+ "terminal_print",
+]
+
+[[package]]
 name = "debug_info"
 version = "0.1.0"
 dependencies = [
