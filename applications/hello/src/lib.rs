@@ -13,6 +13,7 @@ use alloc::string::String;
 
 pub fn main(_args: Vec<String>) -> isize {
     // info!("Hello, world! (from hello application)");
+    // my comment
     println!("Hello, world! Args: {:?}", _args);
 
     0
